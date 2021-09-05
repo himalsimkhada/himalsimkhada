@@ -49,9 +49,9 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
-[![One of the Project](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=carrentalsystem&show_owner=true&theme=radical)](https://github.com/himalsimkhada/CarRentalSystem)
+[![One of the Project](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=carrentalsystem&show_owner=true&theme=dark)](https://github.com/himalsimkhada/CarRentalSystem)
 
-[![Discord Music Bot](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=gainebot&show_owner=true&theme=radical)](https://github.com/himalsimkhada/GaineBot)
+[![Discord Music Bot](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=gainebot&theme=dark&show_owner=true)](https://github.com/himalsimkhada/GaineBot)
 
 <br>
 
