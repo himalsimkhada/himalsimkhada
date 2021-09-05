@@ -64,7 +64,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical)](#)
 
-
+<hr>
 
 <!-- <h3> 🤝🏻 Connect with Me </h3>
 
