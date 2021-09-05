@@ -1,11 +1,17 @@
 <!-- <h2> Hey there! I'm Himal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
+<h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
+
+<h3> About Me ♑️ 🇳🇵 </h3>
 
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m trying to learn Mobile App Development using Kotlin
 - 💬 Wokring with Laravel backend from 6 months
 - 📫 How to reach me:
 - 🎮 Love Gaming
+
+<br>
+<br>
 
 <!-- <h3> 👨🏻‍💻 About Me </h3>
 
