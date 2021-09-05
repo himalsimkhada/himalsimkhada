@@ -74,4 +74,4 @@
 </p> 
 -->
 
-⭐️ From [Himal Simkhada](https://github.com/himalsimkhada)
+[Himal Simkhada](https://github.com/himalsimkhada)
