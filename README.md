@@ -10,8 +10,17 @@
 - 📫 How to reach me:
 - 🎮 Love Gaming
 
+<hr>
 <br>
-<br>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+
+<hr>
 
 <!-- <h3> 👨🏻‍💻 About Me </h3>
 
