@@ -21,6 +21,8 @@
 
 [![One of the Project](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=carrentalsystem&show_owner=true&theme=radical)](https://github.com/himalsimkhada/CarRentalSystem)
 
+[![Discord Music Bot](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=gainebot&show_owner=true&theme=radical)](https://github.com/himalsimkhada/GaineBot)
+
 <br>
 
 [![HimalSimkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true)](#)
