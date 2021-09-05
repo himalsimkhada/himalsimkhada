@@ -2,13 +2,11 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
 <h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
 
-<h3> About Me ♑️ 🇳🇵 </h3>
+<h3> About Me 🇳🇵 </h3>
 
-- 🔭 I’m currently working on Laravel
-- 🌱 I’m trying to learn Mobile App Development using Kotlin
-- 💬 Wokring with Laravel backend from 6 months
-- 📫 How to reach me:
+- 💻 Backend Developer
 - 🎮 Love Gaming
+- 🎸 Learning this badass
 
 <hr>
 
