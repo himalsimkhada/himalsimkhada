@@ -19,6 +19,8 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
+[![One of the Project](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=carrentalsystem&show_owner=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 [![HimalSimkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
