@@ -1,7 +1,7 @@
-<h2> Hey there! I'm Himal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<!-- <h2> Hey there! I'm Himal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
 
-<h3> 👨🏻‍💻 About Me </h3>
+<!-- <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -10,23 +10,24 @@
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
+ -->
+<!-- <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Java | C++  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot -->
 
 <br>
 
-[![HimalSimkhada GitHub stats](https://github-readme-stats.vercel.app/api?username=himalsimkhada)](https://github.com/anuraghazra/github-readme-stats)
+[![HimalSimkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/himalsimkhada/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- <h3> 🤝🏻 Connect with Me </h3>
