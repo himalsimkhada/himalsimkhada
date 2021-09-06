@@ -3,8 +3,9 @@
 <div align="center">
  <h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
 
+ <div align="left">
 <h3> About Me 🇳🇵 </h3>
- 
+ </div>
   | 💻 Backend Developer |
   🎮 Love Gaming |
   🎸 Learning this badass |
