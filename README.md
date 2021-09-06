@@ -3,15 +3,14 @@
 <div align="center">
  <h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
 
- <div align="left">
-<h3> About Me 🇳🇵 </h3>
- </div>
+<h3>𝔸𝕓𝕠𝕦𝕥 𝕞𝕖</h3>
+ 
   | 💻 Backend Developer |
   🎮 Love Gaming |
   🎸 Learning this badass |
 <hr>
 
-**Languages and Tools:**  
+**𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤**  
 
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -24,7 +23,7 @@
 
 <hr>
 
-**Database:**
+**𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖𝕤**
 
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
