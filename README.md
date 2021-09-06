@@ -41,5 +41,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical)
 
 <hr>
-<footer>[Himal Simkhada](https://github.com/himalsimkhada)</footer>
+©️[Himal Simkhada](https://github.com/himalsimkhada)
 <hr>
