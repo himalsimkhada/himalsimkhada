@@ -11,14 +11,14 @@
 <div align="center">
  <h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
 
-<h2>𝔸𝕓𝕠𝕦𝕥 𝕞𝕖</h2>
+<h3>𝔸𝕓𝕠𝕦𝕥 𝕞𝕖</h3>
  
   | 💻 Backend Developer |
   🎮 Love Gaming |
   🎸 Learning this badass |
 <hr>
 
- <h2>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h2>  
+ <h3>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h3>  
 
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
