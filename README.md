@@ -42,6 +42,6 @@
 ![HimalSimkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <hr>
-©️<a href="https://github.com/himalsimkhada">Himal Simkhada</a>
+ Thank you for visiting my profile <h6>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h6>
 <hr>
 <div>
