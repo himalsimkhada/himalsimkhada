@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/e9/03/07/e90307be4c8d3ec19ddf805ab7a59507.jpg">
+<!-- <img src="https://i.pinimg.com/originals/e9/03/07/e90307be4c8d3ec19ddf805ab7a59507.jpg"> -->
+
+[Welcome Giphy](giphy.gif)
 
 <div align="center">
  <h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
