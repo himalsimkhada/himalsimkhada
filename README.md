@@ -36,14 +36,9 @@
 <br>
  
 <div align="left">
- 
  <img src="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true"> 
- 
- <br>
- 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical">
- 
- </div>
+</div>
 
 <hr>
 ©️<a href="https://github.com/himalsimkhada">Himal Simkhada</a>
