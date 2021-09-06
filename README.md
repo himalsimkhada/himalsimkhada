@@ -42,13 +42,22 @@
 [![One of the Project](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=carrentalsystem&show_owner=true&theme=radical)](https://github.com/himalsimkhada/CarRentalSystem)[![Discord Music Bot](https://github-readme-stats.vercel.app/api/pin/?username=himalsimkhada&repo=gainebot&theme=radical&show_owner=true)](https://github.com/himalsimkhada/GaineBot)
 
 <br>
+ 
+<div align="left">
+ 
+ <a href="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true">https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true</a> 
+ 
+ <br>
+ 
+ <a href="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true">https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true</a>
+ 
+ </div>
 
-[![HimalSimkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+<!-- [![HimalSimkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical) -->
 
 <hr>
 ©️<a href="https://github.com/himalsimkhada">Himal Simkhada</a>
