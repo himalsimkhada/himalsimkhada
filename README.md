@@ -4,12 +4,10 @@
  <h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
 
 <h3> About Me 🇳🇵 </h3>
-
- <div align="left">
-  💻 Backend Developer |
+ 
+  | 💻 Backend Developer |
   🎮 Love Gaming |
   🎸 Learning this badass |
- </div>
 <hr>
 
 **Languages and Tools:**  
