@@ -43,3 +43,6 @@
 <hr>
 
 [Himal Simkhada](https://github.com/himalsimkhada)
+<hr>
+<footer>Himal Simkhada</footer>
+<hr>
