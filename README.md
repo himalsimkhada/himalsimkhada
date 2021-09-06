@@ -5,10 +5,11 @@
 
 <h3> About Me 🇳🇵 </h3>
 
+ <div align="left">
 - 💻 Backend Developer
 - 🎮 Love Gaming
 - 🎸 Learning this badass
-
+ </div>
 <hr>
 
 **Languages and Tools:**  
