@@ -1,11 +1,3 @@
-<style>
-
- * {
- border-bottom: none;
- }
- 
-</style>
-
 <img src="https://i.pinimg.com/originals/e9/03/07/e90307be4c8d3ec19ddf805ab7a59507.jpg">
 
 <div align="center">
@@ -49,7 +41,7 @@
  
  <br>
  
- <img src="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalsimkhada&layout=compact&theme=radical">
  
  </div>
 
