@@ -45,11 +45,11 @@
  
 <div align="left">
  
- <a href="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true">https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true</a> 
+ <img src="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true">https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true</a> 
  
  <br>
  
- <a href="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true">https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true</a>
+ <img src="https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true">https://github-readme-stats.vercel.app/api?username=himalsimkhada&show_icons=true&theme=radical&include_all_commits=true&count_private=true</a>
  
  </div>
 
