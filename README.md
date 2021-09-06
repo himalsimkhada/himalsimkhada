@@ -1,10 +1,6 @@
-<!-- <img src="https://i.pinimg.com/originals/e9/03/07/e90307be4c8d3ec19ddf805ab7a59507.jpg"> -->
-
-<!-- ![Welcome Giphy](https://raw.githubusercontent.com/himalsimkhada/himalsimkhada/main/giphy.gif) -->
-
-<img src="https://raw.githubusercontent.com/himalsimkhada/himalsimkhada/main/giphy.gif">
-
 <div align="center">
+ <img src="https://raw.githubusercontent.com/himalsimkhada/himalsimkhada/main/giphy.gif">
+ 
  <h1>ℍ𝕚𝕞𝕒𝕝 𝕊𝕚𝕞𝕜𝕙𝕒𝕕𝕒</h1>
 
 <h3>𝔸𝕓𝕠𝕦𝕥 𝕞𝕖</h3>
